@@ -1,1 +1,16 @@
-
+{
+  "schema_version": 3,
+  "key_id": "axiom.discovery.d110d154451549cca9cdc9e3e1a36d08",
+  "environment": "development",
+  "generation": 1,
+  "issued_at_ms": 1790956789703,
+  "expires_at_ms": 1791561589703,
+  "api_base_urls": [
+    "https://localhost:55444"
+  ],
+  "runtime_wire_urls": [
+    "https://localhost:55444/v2/runtime/wire"
+  ],
+  "tls_ca_file": "public/server-ca.pem",
+  "server_signing_public_key_file": "public/server-signing-public.pem"
+}
